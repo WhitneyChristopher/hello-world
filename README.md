@@ -1,5 +1,5 @@
 # hello-world
-A repository for fun stuff and trial and error. 
+Random. 
 
 
 This is a test.

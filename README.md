@@ -1,8 +1,2 @@
 # hello-world
-Random. 
-
-
-This is a test.
-No need to stress.
-Writing rhymes in code.
-Using.js
+Testing and learning new and existing features.
